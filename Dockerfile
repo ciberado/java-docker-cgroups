@@ -1,4 +1,4 @@
-FROM store/oracle/serverjre:8
+FROM openjdk:8-jre-slim
 COPY Main.class /
 COPY entrypoint.sh /
 ENTRYPOINT [ "/entrypoint.sh" ]

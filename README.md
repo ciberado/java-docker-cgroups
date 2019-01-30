@@ -1,5 +1,7 @@
 # java-docker-cgroups
 
+Completely based on the work done by [Caarlos](https://github.com/caarlos0/java-docker-cgroups).
+
 Playing around with the new cgroup-related JVM option.
 
 ## Prep
